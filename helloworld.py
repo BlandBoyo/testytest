@@ -1,2 +1,1 @@
 print('Wack')
-print('Wakalakachachalaka')
